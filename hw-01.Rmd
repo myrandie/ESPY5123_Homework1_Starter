@@ -2,7 +2,7 @@
 title: "ESPY 5123 Homework 01"
 author: "Insert your name here"
 date: "Insert date here"
-output: html
+output: html_document
 ---
 
 ## Load packages and data
